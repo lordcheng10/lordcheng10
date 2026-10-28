@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/lin-chen-47866b447/"><img src="https://img.shields.io/badge/LinkedIn-lin--chen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ 
   <a href="mailto:lordcheng1020@gmail.com"><img src="https://img.shields.io/badge/Email-lordcheng1020@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://komarev.com/ghpvc/?username=lordcheng10&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
 </p>
