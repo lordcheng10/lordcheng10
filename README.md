@@ -69,14 +69,22 @@ where one bad cache eviction policy costs a cluster its tail latency.
 
 ---
 
-### 📊 GitHub in numbers
+### 📈 By the numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lordcheng10&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordcheng10&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages">
+<img src="https://img.shields.io/badge/PRs%20upstream-175-2ea44f?style=for-the-badge" alt="175 PRs">
+<img src="https://img.shields.io/badge/Apache%20projects-4-blueviolet?style=for-the-badge" alt="4 Apache projects">
+<img src="https://img.shields.io/badge/ApacheCon%20Asia-Speaker%202022-ff69b4?style=for-the-badge" alt="ApacheCon Asia 2022 speaker">
 
-<img src="https://streak-stats.demolab.com?user=lordcheng10&theme=tokyonight&hide_border=true" alt="GitHub streak">
+| Project | Pull requests | Where it landed |
+| :-- | --: | :-- |
+| Apache Pulsar | **109** | broker load balancing, cache eviction, write throttling |
+| Apache BookKeeper | **42** | storage-layer stability under Pulsar's write path |
+| Apache Kafka | **20** | replication, consumer behaviour, protocol compatibility |
+| Apache APISIX | **4** | gateway plugins: auth, rate limiting |
+
+<sub>Numbers from `author:lordcheng10` PR searches — most of the code I ship lives upstream, not in my own repos.</sub>
 
 </div>
 
